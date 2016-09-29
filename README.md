@@ -14,3 +14,6 @@ OCR for pg. 3's nearing completion. Not reading through the French text as thoro
 
 09-28
 Scanning and Stitching is 100% complete! Now time to hunker down and ocr my eyes into a jelly. Looking to meet the deliverable deadline on Oct.3.
+
+09-29
+OCR is done for Pg 3's for the assigned week. Now uploaded.
