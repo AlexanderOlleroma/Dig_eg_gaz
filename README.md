@@ -17,3 +17,6 @@ Scanning and Stitching is 100% complete! Now time to hunker down and ocr my eyes
 
 09-29
 OCR is done for Pg 3's for the assigned week. Now uploaded.
+
+10-3
+XML's are slowly getting completed. 2 pages done (learning how to use XML editor took alot longer than expected, but proficiency is developing). Shifting gears for the long haul...
