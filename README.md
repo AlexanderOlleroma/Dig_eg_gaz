@@ -20,3 +20,6 @@ OCR is done for Pg 3's for the assigned week. Now uploaded.
 
 10-3
 XML's are slowly getting completed. 2 pages done (learning how to use XML editor took alot longer than expected, but proficiency is developing). Shifting gears for the long haul...
+
+10-5 
+Page 3's are all marked up, just need to add tables for sporting events. Finished a page 1 in one of the days, Lot's of Advertisements still needed. Waiting for Dr. Hanley to post finished boilerplates.
